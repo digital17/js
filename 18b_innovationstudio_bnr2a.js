@@ -2590,7 +2590,7 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/wood.jpg", id:"wood"}
+		{src:"https://cdn1.1800baskets.com/wcsstore/Baskets/images/innovation/wood.jpg", id:"wood"}
 	],
 	preloads: []
 };
